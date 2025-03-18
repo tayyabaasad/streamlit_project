@@ -23,8 +23,8 @@ st.write("Transform your files from csv and Excel formates with built-in data cl
 
 
 
-uploaded_files = st.file_uploader("upload your files(Accepts CSV and Excel):",
-                                  Type=["csv","xlsx"],accept_multiple_files=(True))
+uploaded_files = st.file_uploader("upload your files(Accepts CSV and Excel):"),
+                                  Type=["csv","xlsx"],accept_multiple_files=(True)
 
 if uploaded_files:
     for file in uploaded_files:
