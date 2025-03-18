@@ -19,7 +19,7 @@ st.markdown(
 )
 
 st.title("📀 Data sweeper sterling Integrator by Tayyaba asad")
-st.write("Transform your files from scv and Excel formates with built-in data cleaning and visualization creating the project for quarter 3!")
+st.write("Transform your files from csv and Excel formates with built-in data cleaning and visualization creating the project for quarter 3!")
 
 
 
