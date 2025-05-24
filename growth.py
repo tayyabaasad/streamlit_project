@@ -1,3 +1,4 @@
+from pandas.core.indexing import _iLocIndexer
 import streamlit as st
 import pandas as pd
 import os
